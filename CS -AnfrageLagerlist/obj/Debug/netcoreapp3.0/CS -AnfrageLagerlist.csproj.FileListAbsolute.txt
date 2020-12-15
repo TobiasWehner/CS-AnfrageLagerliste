@@ -1,0 +1,17 @@
+C:\Users\t.wehner0909\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\bin\Debug\netcoreapp3.0\CS -AnfrageLagerlist.exe
+C:\Users\t.wehner0909\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\bin\Debug\netcoreapp3.0\CS -AnfrageLagerlist.deps.json
+C:\Users\t.wehner0909\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\bin\Debug\netcoreapp3.0\CS -AnfrageLagerlist.runtimeconfig.json
+C:\Users\t.wehner0909\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\bin\Debug\netcoreapp3.0\CS -AnfrageLagerlist.runtimeconfig.dev.json
+C:\Users\t.wehner0909\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\bin\Debug\netcoreapp3.0\CS -AnfrageLagerlist.dll
+C:\Users\t.wehner0909\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\bin\Debug\netcoreapp3.0\CS -AnfrageLagerlist.pdb
+C:\Users\t.wehner0909\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\obj\Debug\netcoreapp3.0\CS -AnfrageLagerlist.csprojAssemblyReference.cache
+C:\Users\t.wehner0909\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\obj\Debug\netcoreapp3.0\CS -AnfrageLagerlist.AssemblyInfoInputs.cache
+C:\Users\t.wehner0909\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\obj\Debug\netcoreapp3.0\CS -AnfrageLagerlist.AssemblyInfo.cs
+C:\Users\t.wehner0909\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\obj\Debug\netcoreapp3.0\CS -AnfrageLagerlist.dll
+C:\Users\t.wehner0909\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\obj\Debug\netcoreapp3.0\CS -AnfrageLagerlist.pdb
+C:\Users\tobiasw\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\obj\Debug\netcoreapp3.0\CS -AnfrageLagerlist.csprojAssemblyReference.cache
+C:\Users\tobiasw\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\obj\Debug\netcoreapp3.0\CS -AnfrageLagerlist.AssemblyInfoInputs.cache
+C:\Users\tobiasw\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\obj\Debug\netcoreapp3.0\CS -AnfrageLagerlist.AssemblyInfo.cs
+C:\Users\tobiasw\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\obj\Debug\netcoreapp3.0\CS -AnfrageLagerlist.csproj.CoreCompileInputs.cache
+C:\Users\tobiasw\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\obj\Debug\netcoreapp3.0\CS -AnfrageLagerlist.dll
+C:\Users\tobiasw\OneDrive - bkt.siwiwissen.de\LF05\CS -AnfrageLagerlist\CS -AnfrageLagerlist\obj\Debug\netcoreapp3.0\CS -AnfrageLagerlist.pdb
